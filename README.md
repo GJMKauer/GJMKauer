@@ -18,6 +18,8 @@
 
 <p>⠀</p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&locale=pt-br&theme=merko&border_radius=25" alt="gjmkauer" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko)](https://github.com/gjmkauer/github-readme-stats)
+<div style='display:flex;'>
+  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&locale=pt-br&theme=merko&border_radius=25" alt="gjmkauer" width=350/>
+⠀⠀⠀
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25" alt="MySQL" width="350"/>
+</div>
