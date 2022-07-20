@@ -7,16 +7,6 @@
 
 <p>⠀</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gjmkauer&label=Profile%20views&color=0e75b6&style=flat" alt="gjmkauer_profile_views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gjmkauer" alt="gjmkauer_profile_trophies" /></a>
-</p>
-
-<p>⠀</p>
-
 - 💬 Você pode me encontrar em: **https://www.linkedin.com/in/gjmkauer/**
 
 - 📫 E-mail: **gjmkauer@hotmail.com**
