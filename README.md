@@ -20,6 +20,6 @@
 
 <div style='display:flex;'>
   <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="gjmkauer" width=350/>
-⠀⠀⠀
+⠀⠀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="MySQL" width="350"/>
 </div>
