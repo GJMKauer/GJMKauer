@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🚀!Eu sou Gabriel Kauer!</h1>
+<h1 align="center">Olá 🚀! Eu sou Gabriel Kauer!</h1>
 <h3 align="center">Me descobri apaixonado por tecnologia em meados do ano de 2021. Tinha um conhecimento superficial sobre a estrutura de códigos JSON até o final do ano passado, porém em Janeiro iniciei meu Curso de Desenvolvimento Web pela Trybe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gjmkauer&label=Profile%20views&color=0e75b6&style=flat" alt="gjmkauer" /> </p>
