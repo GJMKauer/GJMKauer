@@ -22,7 +22,7 @@
 <p>⠀</p>
 
 <a href="https://github.com/GJMKauer">
-  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Stats" height="170px" width="50%" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Stats" height="175px" width="50%" align="left" />
 </a>
 
 <a href="https://github.com/GJMKauer">
