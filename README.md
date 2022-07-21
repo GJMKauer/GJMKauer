@@ -7,7 +7,7 @@
 
 <p>⠀</p>
 
-- 💬 Você pode me encontrar em: **https://www.linkedin.com/in/gjmkauer/**
+- 💬 Conecte-se comigo no LinkedIn: **https://www.linkedin.com/in/gjmkauer/**
 
 - 📫 E-mail: **gjmkauer@hotmail.com**
 
