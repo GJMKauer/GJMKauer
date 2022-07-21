@@ -21,8 +21,10 @@
 
 <p>⠀</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="gjmkauer" width=350/>
-⠀⠀
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="MySQL" width="350"/>
-</p>
+<a href="https://github.com/GJMKauer">
+  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Stats" height="180px" width="50%" align="left" />
+</a>
+
+<a href="https://github.com/GJMKauer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Languages" height="180px" width="45%" align="right" />
+</a>
