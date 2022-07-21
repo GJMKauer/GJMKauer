@@ -9,7 +9,7 @@
             h1 {
                 color: green;
                 animation: mymove 2s infinite;
-                font-family: Lucida Sans Typewriter;
+                font-family: Arial;
                 text-align: center;
             }
 
