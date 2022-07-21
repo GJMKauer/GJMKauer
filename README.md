@@ -1,4 +1,7 @@
-<h1 align="center">Olá! Me chamo Gabriel Kauer. 🚀</h1>
+<header align="center">
+  <img src="header.svg" alt="Gabriel Kauer's GitHub Profile Header">
+</header>
+
 <h3 align="center">Me descobri apaixonado por tecnologia em meados do ano de 2021. Tinha um conhecimento superficial sobre a estrutura de códigos JSON até o final do ano passado, porém em Janeiro iniciei meu Curso de Desenvolvimento Web pela Trybe.</h3>
 
 <p>⠀</p>
