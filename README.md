@@ -26,5 +26,5 @@
 </a>
 
 <a href="https://github.com/GJMKauer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Languages" height="170px" width="45%" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Languages" height="170px" width="40%" align="right" />
 </a>
