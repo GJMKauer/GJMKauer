@@ -6,7 +6,9 @@
 
 <p>⠀</p>
 
-<h4 align="justify">👨‍💻 Desde que iniciei o módulo de Front-end me apaixonei por esse mundo e pelo React. Me aventurando pelos conceitos de componentes de classe e componentes funcionais, conheci o Redux pelo qual tenho um carinho enorme e adoro utilizar. Atualmente estou estudando em Back-end as seguintes tecnologias: <b>Docker, MYSQL e Node.js.</b></h4>
+<h4 align="justify">👨‍💻 Desde que iniciei o módulo de Frontend me apaixonei por esse mundo e pelo React. Me aventurando pelos conceitos de componentes de classe e componentes funcionais, conheci o Redux pelo qual tenho um carinho enorme e adoro utilizar.
+
+Atualmente estudo em Backend as seguintes tecnologias: <b>Node.js, Express, ORMs e TypeScript.</b></h4>
 
 <p>⠀</p>
 
