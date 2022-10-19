@@ -1,20 +1,20 @@
-<header align="center">
-  <img src="header.svg" alt="Gabriel Kauer's GitHub Profile Header">
-</header>
+<h1 align="left">Olá 👋, Eu sou Gabriel Kauer</h1>
 
-<h3 align="center">Descobri o desejo pela tecnologia em meados do ano de 2021. Tinha um conhecimento superficial sobre a estrutura de códigos JSON até Janeiro de 2022, quando iniciei meu Curso de Desenvolvimento Web pela Trybe.</h3>
+<h3 align="center"> Já havia tido um contato com programação ainda cedo, em 2014, quando cursava meu Técnico Integrado ao Ensino Médio - no entanto, ainda não era algo que tinha despertado minha paixão e/ou meu interesse.</h3>
 
-<p>⠀</p>
+<hr>
 
-<h4 align="justify">👨‍💻 Desde que iniciei o módulo de Frontend me apaixonei por esse mundo e pelo React. Me aventurando pelos conceitos de componentes de classe e componentes funcionais, conheci o Redux pelo qual tenho um carinho enorme e adoro utilizar.
+<h4 align="justify">Foi quando comecei a me apronfundar nas estruturas de arquivos JSON para modificar os arquivos de um jogo que gosto muito, em 2021, que comecei a me interessar por programação. Iniciei meu Curso de Desenvolvimento Web pela Trybe em Janeiro de 2022, e desde então me apaixono cada dia a mais por essa área.</h4>
 
-Atualmente estudo em Backend as seguintes tecnologias: <b>Node.js, Express, ORMs e TypeScript.</b></h4>
+<h4 align="justify">👨‍💻 Atualmente estou finalizando meus estudos em Backend na Trybe, com os conteúdos de <b>MongoDB e Mongoose.</b></h4>
 
-<p>⠀</p>
-
-- 💬 Conecte-se comigo no LinkedIn: **https://www.linkedin.com/in/gjmkauer/**
-
-- 📫 E-mail: **gjmkauer@hotmail.com**
+<h3 align="left">Contatos:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gjmkauer/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gabriel Kauer's Linkedin"/></a>
+<a href="mailto:gjmkauer@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gabriel Kauer's Email"/></a>
+<a href="http://www.instagram.com/gjmkauer/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gabriel Kauer's Instagram"/></a>
+<a href="http://wa.me/5551986873003" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gabriel Kauer's WhatsApp"/></a>
+</p>
 
 <p>⠀</p>
 
@@ -28,6 +28,7 @@ Atualmente estudo em Backend as seguintes tecnologias: <b>Node.js, Express, ORMs
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode Badge" />
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge" />
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
@@ -52,6 +53,7 @@ Atualmente estudo em Backend as seguintes tecnologias: <b>Node.js, Express, ORMs
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Badge"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize Badge"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
  </p>
@@ -65,10 +67,6 @@ Atualmente estudo em Backend as seguintes tecnologias: <b>Node.js, Express, ORMs
 
 <p>⠀</p>
 
-<a href="https://github.com/GJMKauer">
-  <img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Stats" height="170px" width="45%" align="left" />
-</a>
+<a href="https://github.com/GJMKauer"><img src="https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Stats" height="170px" width="45%" align="left" /></a>
 
-<a href="https://github.com/GJMKauer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Languages" height="170px" width="40%" align="right" />
-</a>
+<a href="https://github.com/GJMKauer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br" alt="GJMKauer Languages" height="170px" width="40%" align="right" /></a>
