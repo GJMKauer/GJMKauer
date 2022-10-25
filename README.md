@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, eu sou Gabriel Kauer!</h1>
 
-<h3 align="center"> Já havia tido um contato com programação ainda cedo, em 2014, quando cursava meu Técnico Integrado ao Ensino Médio - no entanto, ainda não era algo que tinha despertado minha paixão e/ou meu interesse.</h3>
+<h3 align="center">Tive um contato com programação ainda cedo, em 2014, quando cursava meu Técnico Integrado ao Ensino Médio - no entanto, ainda não era algo que tinha despertado minha paixão e/ou meu interesse.</h3>
 
 <hr>
 
