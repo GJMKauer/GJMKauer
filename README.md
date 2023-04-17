@@ -6,7 +6,7 @@
 
 <h4 align="justify">Foi quando comecei a me aprofundar nas estruturas de arquivos JSON para modificar os arquivos de um jogo que gosto muito, em 2021, que comecei a me interessar por programação. Iniciei meu Curso de Desenvolvimento Web pela Trybe em Janeiro de 2022, e desde então me apaixono cada dia a mais por essa área.</h4>
 
-<h4 align="justify">👨‍💻 Atualmente estou finalizando meus estudos em Backend na Trybe, com os conteúdos de <b>MongoDB e Mongoose.</b></h4>
+<h4 align="justify">👨‍💻 Atualmente trabalho como Desenvolvedor FullStack na <b>Yaak Ventures</b>.</h4>
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
