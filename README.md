@@ -6,7 +6,7 @@ Tive um contato com programação ainda cedo, em 2014, quando cursava meu Técni
 
 Foi quando comecei a me aprofundar nas estruturas de arquivos JSON para modificar os arquivos de um jogo que gosto muito, em 2021, que comecei a me interessar por programação. Iniciei meu Curso de Desenvolvimento Web pela Trybe em Janeiro de 2022, e desde então me apaixono cada dia a mais por essa área.
 
-👨‍💻 Atualmente sou Engenheiro de Software Pleno na Liquid.
+👨‍💻 Atualmente sou Engenheiro de Software Pleno na Liquid, e curso Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul.
 
 ### Contatos:
 
