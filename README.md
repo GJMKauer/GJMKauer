@@ -1,7 +1,7 @@
 👋 Olá! Meu nome é Gabriel Kauer.
 
 💻 Sou um desenvolvedor web apaixonado por tecnologia, games e código limpo.  
-Minha jornada começou em 2014 com o curso técnico integrado ao ensino médio, mas foi em 2021, ao modificar arquivos JSON no Stardew Valley, que a programação fisgou de vez minha atenção.
+Meu interesse pela programação começou em 2014 com o curso técnico integrado ao ensino médio, mas foi em 2021, ao modificar arquivos JSON no Stardew Valley, que ela fisgou de vez minha atenção.
 
 🚀 Desde então, mergulhei de cabeça no desenvolvimento web.  
 Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul (3º semestre).
@@ -13,6 +13,7 @@ Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cu
 - Automatização de tarefas repetitivas
 
 👨‍💼 Hoje atuo como **Tech Lead do produto Pass na Liquid**, liderando decisões técnicas, apoiando o time e codando sempre que possível.
+
 🎮 Também atuo como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
 
 💿 Fã de jogos, especialmente os que posso modificar para aprender mais sobre como funcionam por dentro.
