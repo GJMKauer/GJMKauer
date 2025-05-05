@@ -1,12 +1,24 @@
-Olá 👋, eu sou Gabriel Kauer!
+👋 Olá! Meu nome é Gabriel Kauer.
 
-Tive um contato com programação ainda cedo, em 2014, quando cursava meu Técnico Integrado ao Ensino Médio - no entanto, ainda não era algo que tinha despertado minha paixão e/ou meu interesse.
+💻 Sou um desenvolvedor web apaixonado por tecnologia, games e código limpo.  
+Minha jornada começou em 2014 com o curso técnico integrado ao ensino médio, mas foi em 2021, ao modificar arquivos JSON no Stardew Valley, que a programação fisgou de vez minha atenção.
 
----
+🚀 Desde então, mergulhei de cabeça no desenvolvimento web.  
+Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul (3º semestre).
 
-Foi quando comecei a me aprofundar nas estruturas de arquivos JSON para modificar os arquivos de um jogo que gosto muito, em 2021, que comecei a me interessar por programação. Iniciei meu Curso de Desenvolvimento Web pela Trybe em Janeiro de 2022, e desde então me apaixono cada dia a mais por essa área.
+🧠 Gosto de aprender construindo. Algumas das minhas áreas de interesse incluem:
+- Desenvolvimento backend (Node.js, Python, C#)
+- Arquitetura de software
+- Estruturação de projetos escaláveis
+- Automatização de tarefas repetitivas
 
-👨‍💻 Atualmente sou Engenheiro de Software Pleno na Liquid, e curso Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul.
+👨‍💼 Hoje atuo como **Tech Lead do produto Pass na Liquid**, liderando decisões técnicas, apoiando o time e codando sempre que possível.
+🎮 Também atuo como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
+
+💿 Fã de jogos, especialmente os que posso modificar para aprender mais sobre como funcionam por dentro.
+
+📫 Vamos conversar?  
+Me chama no [LinkedIn](https://www.linkedin.com/in/gjmkauer/) ou abra uma issue num projeto meu! 😄
 
 ### Contatos:
 
