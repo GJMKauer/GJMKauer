@@ -14,7 +14,7 @@ Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cu
 
 👨‍💼 Hoje atuo como **Tech Lead do produto Pass na Liquid**, liderando decisões técnicas, apoiando o time e codando sempre que possível.
 
-🎮 Também atuo como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
+🎮 Também atuei, entre outubro de 2024 e junho de 2025, como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
 
 💿 Fã de jogos, especialmente os que posso modificar para aprender mais sobre como funcionam por dentro.
 
