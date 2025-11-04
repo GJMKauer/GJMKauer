@@ -7,12 +7,13 @@ Meu interesse pela programação começou em 2014 com o curso técnico integrado
 Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul (3º semestre).
 
 🧠 Gosto de aprender construindo. Algumas das minhas áreas de interesse incluem:
-- Desenvolvimento backend (Node.js, Python, C#)
+- Desenvolvimento frontend (React.js, TypeScript)
+- Desenvolvimento backend (Node.js, Python)
 - Arquitetura de software
 - Estruturação de projetos escaláveis
 - Automatização de tarefas repetitivas
 
-👨‍💼 Hoje atuo como **Tech Lead do produto Pass na Liquid**, liderando decisões técnicas, apoiando o time e codando sempre que possível.
+👨‍💼 Hoje atuo como **Engenheiro de software na Recrut.AI**, auxiliando em decisões técnicas sobre a nova versão do sistema, além de atuar em sua implementação.
 
 🎮 Também atuei, entre outubro de 2024 e junho de 2025, como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
 
