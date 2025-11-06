@@ -13,7 +13,7 @@ Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cu
 - Estruturação de projetos escaláveis
 - Automatização de tarefas repetitivas
 
-👨‍💼 Hoje atuo como **Engenheiro de software na Recrut.AI**, auxiliando em decisões técnicas sobre a nova versão do sistema, além de atuar em sua implementação.
+👨‍💼 Hoje atuo como **Engenheiro de software na Recrut.AI**, auxiliando nas decisões técnicas e implementação da nova versão do sistema.
 
 🎮 Também atuei, entre outubro de 2024 e junho de 2025, como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
 
