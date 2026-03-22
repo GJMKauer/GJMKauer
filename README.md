@@ -4,7 +4,7 @@
 Meu interesse pela programação começou em 2014 com o curso técnico integrado ao ensino médio, mas foi em 2021, ao modificar arquivos JSON no Stardew Valley, que ela fisgou de vez minha atenção.
 
 🚀 Desde então, mergulhei de cabeça no desenvolvimento web.  
-Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul (3º semestre).
+Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cursando Análise e Desenvolvimento de Sistemas no IFSul Sapucaia do Sul (5º semestre).
 
 🧠 Gosto de aprender construindo. Algumas das minhas áreas de interesse incluem:
 - Desenvolvimento frontend (React.js, TypeScript)
@@ -13,7 +13,7 @@ Formado pela [Trybe](https://www.betrybe.com/) (início em 2022) e atualmente cu
 - Estruturação de projetos escaláveis
 - Automatização de tarefas repetitivas
 
-👨‍💼 Hoje atuo como **Engenheiro de software na Recrut.AI**, auxiliando nas decisões técnicas e implementação da nova versão do sistema.
+👨‍💼 Hoje atuo como **Engenheiro de Software na Recrut.AI**, auxiliando nas decisões técnicas e implementação da nova versão do sistema.
 
 🎮 Também atuei, entre outubro de 2024 e junho de 2025, como principal desenvolvedor - em parceria com o [Lucas Amaral](https://github.com/lucasamaraldev) - em um servidor privado de DDTank, o [DDTank Universe](https://ddtankuniverse.com.br/).
 
@@ -86,7 +86,7 @@ Me chama no [LinkedIn](https://www.linkedin.com/in/gjmkauer/) ou abra uma issue 
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-<p>⠀</p>
+---
 
 [![GJMKauer Stats](https://github-readme-stats.vercel.app/api?username=gjmkauer&show_icons=true&theme=merko&border_radius=25&locale=pt-br)](https://github.com/GJMKauer)
 [![GJMKauer Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjmkauer&langs_count=10&layout=compact&theme=merko&border_radius=25&locale=pt-br)](https://github.com/GJMKauer)
